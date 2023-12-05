@@ -6,7 +6,7 @@ Follow us on LinkedIn
 [Check our website](citros.io)
 
 ## Contributing
-[Contributing](https://github.com/lulav-citros/citros-monolit/blob/master/CONTRIBUTING.md)
+[Contributing](https://github.com/lulav-citros/.github/blob/main/CONTRIBUTING.md)
 
 ## Tha main repository
 [monolit](https://github.com/lulav-citros/citros-monolit)
