@@ -1,12 +1,13 @@
-Robotics. Out of This World.
-Lulav Space is an Israeli robotics software company founded in 2021.
-Our team members are of experienced robotics engine that took part in Israel’s Beresheet mission - the first private mission launched to the moon in 2019.
-We are now participating in the Beresheet2 mission, which will launch to the moon in 2025.
+# CITROS
+is a robotics development platform that empowers engineers to build better robots faster, with streamlined data management, powerful analysis tools, and automated reporting.
 
 Stay Connected
 Follow us on LinkedIn
 [Check our website](citros.io)
 
+## Contributing
+[Contributing](https://github.com/lulav-citros/citros-monolit/blob/master/CONTRIBUTING.md)
 
-# Tha main repository
+## Tha main repository
 [monolit](https://github.com/lulav-citros/citros-monolit)
+
