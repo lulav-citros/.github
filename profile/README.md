@@ -8,5 +8,5 @@ Follow us on LinkedIn
 [Check our website](citros.io)
 
 
-#Tha main repository
+# Tha main repository
 [monolit](https://github.com/lulav-citros/citros-monolit)
